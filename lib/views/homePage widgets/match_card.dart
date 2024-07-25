@@ -36,7 +36,7 @@ class MatchCard extends StatelessWidget {
             homeModel: null,
             awayModel: null,
           ));
-          print('No Statistics to show');
+          print('No Statistics to');
         }
       },
       child: Container(
